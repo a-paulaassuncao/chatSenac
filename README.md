@@ -1,5 +1,6 @@
 <p align="center">
-CHAT desenvolvido HTML, CSS e JavaScript.
+## Overview
+Este é um projeto simples de chat construído usando HTML, CSS e JavaScript. O objetivo principal é reforçar a compreensão sobre manipulação de eventos, manipulação do DOM e aplicação de estilos básicos com CSS.
 </p>
 
 <p align="center">
@@ -31,8 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto desenvolvi um quiz pra testar os conhecimentos técnicos e ter um retorno sobre a quantidade de acertos.
 
+
+Nota: Este é um projeto educacional destinado a prática de conceitos básicos de HTML, CSS e JavaScript. Se você deseja um chat mais robusto, considere explorar bibliotecas ou frameworks específicos para esse fim.
 
 ## 📝 Licença
 
