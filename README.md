@@ -1,5 +1,4 @@
 <p align="center">
-## Overview
 Este é um projeto simples de chat construído usando HTML, CSS e JavaScript. O objetivo principal é reforçar a compreensão sobre manipulação de eventos, manipulação do DOM e aplicação de estilos básicos com CSS.
 </p>
 
