@@ -1,5 +1,5 @@
 <p align="center">
-CHAT desenvolvido HTML+CSS+JS.
+CHAT desenvolvido HTML, CSS e JavaScript.
 </p>
 
 <p align="center">
