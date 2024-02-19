@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-## 💻 Projeto
+## 💻 Projeto Back-end e Front-end
 
 Envio de Mensagens: 
 Os usuários podem digitar mensagens em um campo de entrada e enviar. As mensagens são exibidas acima do campo de entrada.
