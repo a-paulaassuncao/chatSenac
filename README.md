@@ -17,10 +17,6 @@ Este é um projeto simples de chat construído usando HTML, CSS e JavaScript. O 
 
 <br>
 
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src="./assets/preview.png" width="80%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
