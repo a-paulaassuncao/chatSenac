@@ -2,8 +2,6 @@
 CHAT desenvolvido HTML+CSS+JS.
 </p>
 
-![image](https://github.com/a-paulaassuncao/chatSenac/assets/111024757/b57e9ad1-07ca-4450-8042-8e146bcf10de)
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,6 +11,8 @@ CHAT desenvolvido HTML+CSS+JS.
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
+
+![image](https://github.com/a-paulaassuncao/chatSenac/assets/111024757/b57e9ad1-07ca-4450-8042-8e146bcf10de)
 
 <br>
 
