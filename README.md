@@ -32,7 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-
+Envio de Mensagens: 
+Os usuários podem digitar mensagens em um campo de entrada e enviar. As mensagens são exibidas acima do campo de entrada.
 
 Nota: Este é um projeto educacional destinado a prática de conceitos básicos de HTML, CSS e JavaScript. Se você deseja um chat mais robusto, considere explorar bibliotecas ou frameworks específicos para esse fim.
 
